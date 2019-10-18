@@ -15,6 +15,16 @@ timeline: true
 
 ---
 
+## 3.24.2
+
+`2019-10-18`
+
+- https://github.com/ant-design/ant-design/pull/19284
+- https://github.com/ant-design/ant-design/pull/19286
+- https://github.com/ant-design/ant-design/pull/19278
+- https://github.com/ant-design/ant-design/pull/19268
+- https://github.com/ant-design/ant-design/pull/19272
+
 ## 3.24.1
 
 `2019-10-17`
